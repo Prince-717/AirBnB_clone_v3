@@ -150,13 +150,9 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
-No known bugs at this time. 
-
 ## Authors
-Fares Sassi - [Github](https://https://github.com/Fares84) / [Twitter](https://twitter.com/faressassi)  
-Gregory Arthus - [Github](https://github.com/garthus23) / [Twitter]()
+Prince Aboagye - [Github](https://https://github.com/Prince-717)
+Chukwuma Emmanuella - [Github](https://github.com/ch3lla)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
